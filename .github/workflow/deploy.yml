@@ -1,0 +1,31 @@
+# becodeorg/nyooz
+#
+# /.github/workflows/deploy.yml - Deploy workflow
+#
+# coded by leny@BeCode
+# started at 18/01/2020
+
+name: Build Hexo blog
+
+on:
+  push:
+    branches:
+      - master
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v1
+      - uses: actions/setup-node@v1
+        with:
+          node-version: "12.x"
+      - name: Install dependencies
+        run: npm ci
+        env:
+          ADBLOCK: true
+          CI: true
+          DISABLE_OPENCOLLECTIVE: true
+      - name: Build
+        run: npm run build
