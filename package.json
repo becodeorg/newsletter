@@ -1,0 +1,36 @@
+{
+  "name": "@becode/nyooz",
+  "private": true,
+  "version": "0.1.0",
+  "description": "A simple blog for marketing - hosting newsletters articles",
+  "hexo": {
+    "version": "4.2.0"
+  },
+  "scripts": {
+    "build": "hexo generate",
+    "clean": "hexo clean",
+    "serve": "hexo server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/becodeorg/nyooz.git"
+  },
+  "author": "leny@becode.org",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/becodeorg/nyooz/issues"
+  },
+  "homepage": "https://github.com/becodeorg/nyooz#readme",
+  "dependencies": {
+    "hexo": "^4.0.0",
+    "hexo-generator-archive": "^1.0.0",
+    "hexo-generator-category": "^1.0.0",
+    "hexo-generator-index": "^1.0.0",
+    "hexo-generator-tag": "^1.0.0",
+    "hexo-renderer-marked": "^2.0.0",
+    "hexo-renderer-pug": "^1.0.0",
+    "hexo-renderer-stylus": "^1.1.0",
+    "hexo-server": "^1.0.0",
+    "hexo-wordcount": "^6.0.1"
+  }
+}

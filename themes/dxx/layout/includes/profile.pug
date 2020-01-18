@@ -1,0 +1,10 @@
+- var title = config.title
+- var bio = config.bio
+div.profile
+    section#wrapper
+        header#header
+            a(href='/')
+                img(id='avatar', class='2x', src=url_for('/images/becode-seal.png'))
+
+            h1!=title
+            h2!=bio
