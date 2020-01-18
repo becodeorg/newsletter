@@ -1,5 +1,5 @@
 # BeCode: nyooz
 
-> ⚙ A simple Jekyll blog for marketing - hosting newsletters articles
+> ⚙ A simple blog for marketing - hosting newsletters articles
 
 * * *
