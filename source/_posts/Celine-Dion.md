@@ -2,8 +2,8 @@
 title: Celine Dion - My heat will go on World Tour
 ---
 "Celine Dion - My heat will go on World Tour" is the 10th wold tour by Canadian chanteuse Celine  Dion. 
-![Official tour poster][logo]
-[logo]: https://images.app.goo.gl/mc5aYAZn1BU6LaQC8 "Official Tour Poster"
+
+![Celine Dion is Super Happy](https://faithit-eszuskq0bptlfh8awbb.stackpathdns.com/wp-content/uploads/beans/images/celine31-8b38574.jpg "Official Tour Poster")
 
 ## Tour announcement
 "Celine Dion - My heat will go on World Tour" Was announced trhough a press conference held in Seoul on February 1st 2020.
