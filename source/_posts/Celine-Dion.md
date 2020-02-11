@@ -9,11 +9,11 @@ title: Celine Dion - My heat will go on World Tour
 ### Tour dates
 
 
-| City       | Venue          | Date  |
-| ------------- |:-------------:| -----:|
-| Schaerbeek     | Mission Locale de Schaerbeek | April 3rd, 2020 |
-| Ixelles      | Flagey Square    |   April 4th, 2020 |
-| Brussels | BeCentral - Local des Rêves      |    June 11th, 2020 |
+| City       | Venue          | Date  | Revenue| 
+| ------------- |:-------------:| -----:|-------
+| Schaerbeek     | Mission Locale de Schaerbeek | April 3rd, 2020 | €18.254.000|
+| Ixelles      | Flagey Square    |   April 4th, 2020 | €2.000|
+| Brussels | BeCentral - Local des Rêves      |    June 11th, 2020 | €8|
 
 More info: [Writing](https://hexo.io/docs/writing.html)
 
