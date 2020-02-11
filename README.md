@@ -1,4 +1,4 @@
-# BeCode: nyooz
+# BeCode: Newsletter
 
 > ⚙ A simple blog for marketing - hosting newsletters articles
 
@@ -8,7 +8,15 @@ Using [hexo](//hexo.io).
 
 ## Add/edit a post
 
-Simply add or edit markdown files in [source/_post](./source/_post) folder.  
+In [source/_post](./source/_post) folder, **create** a new file.    
+Then, give it a name, without space and at the end, give it an extension. *For example: newsletter-june2020.md*    
+Do not forget to add the three first line on the top of the file. It's about the title of the post.
+
+**To modify**, just click on the file you wanna modify and then click on [edit].    
+You want to **preview** your modification before commiting? Click on [preview changes] on the top of the edition area.
+
+You don't remember how to use markdown? [Your cheat sheet is here!](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+
 There's templates in [scaffolds](./scaffolds).
 
 Follow Hexo's [documentation](//hexo.io/docs/writing) for writing.
