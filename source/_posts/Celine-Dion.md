@@ -1,5 +1,5 @@
 ---
-title: Celine Dion - My heat will go on World Tour
+title: Celine Dion
 ---
 "Celine Dion - My heat will go on World Tour" is the 10th wold tour by Canadian chanteuse Celine  Dion. 
 
