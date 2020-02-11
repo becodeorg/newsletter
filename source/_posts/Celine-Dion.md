@@ -1,16 +1,19 @@
 ---
-title: Celine Dion
+title: Celine Dion - My heat will go on World Tour
 ---
 "Celine Dion - My heat will go on World Tour" is the 10th wold tour by Canadian chanteuse Celine  Dion. 
 
 ## Tour announcement
 "Celine Dion - My heat will go on World Tour" Was announced trhough a press conference held in Seoul on February 1st 2020.
 
-### Create a new post
+### Tour dates
 
-``` bash
-$ hexo new "My New Post"
-```
+
+| City       | Venue          | Date  |
+| ------------- |:-------------:| -----:|
+| Schaerbeek     | Mission Locale de Schaerbeek | April 3rd, 2020 |
+| Ixelles      | Flagey Square    |   April 4th, 2020 |
+| Brussels | BeCentral - Local des Rêves      |    June 11th, 2020 |
 
 More info: [Writing](https://hexo.io/docs/writing.html)
 
