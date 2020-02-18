@@ -18,12 +18,12 @@ In January, our very magic BeCode team gathered to celebrate almost 3 years of p
 - Strenghtening our mission by further expanding our audience, giving a learning opportunity to more and more motivated people in Belgium. 
 It happened at BeCode
 First Graduation in Antwerp
-
+![Graduation in Antwerp](https://github.com/becodeorg/newsletter/blob/master/source/images/Graduation%20in%20Antwerp.jpg "Graduation in Antwerp")
 On February 6th, we were happy to celebrate the success of our two first generations of BeCoders in Antwerp in the Presence of alderman Claude Marinower! 
 
 We are very proud to say that 75% of our first Antwerp group found their way back to employment in the IT sector or continued more specialized education, all thanks to their hard work & commitment during their 7 months of training at BeCode. 
 Two groups graduated in Brussels
-![Graduation in Brussels](https://github.com/becodeorg/newsletter/blob/master/source/images/IMG_1297.JPG "Graduation in Brussels")
+![Graduation in Brussels](https://github.com/becodeorg/newsletter/blob/master/source/images/Graduation%20in%20Brussels.JPG "Graduation in Brussels")
 Brussels also got the opportunity to celebrate our learner's success, with two new groups graduating in February, and lots more BeCoders with a job!
 Congrats!
 New faces at BeCode
