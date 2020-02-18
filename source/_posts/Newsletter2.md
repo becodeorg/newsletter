@@ -30,7 +30,7 @@ New faces at BeCode
 ![Heads of Campus](https://github.com/becodeorg/newsletter/blob/master/source/images/WhatsApp%20Image%202020-02-10%20at%2018.06.55.jpeg "Heads of Campus")
 The BeCode team is welcoming Kanchan, Laureline and Lizhen, our new Heads of Campus for Flanders, Wallonia and Brussels. With this new contact point, we wish to get closer to local communities and develop our networks throughout the country, helping bridge the gap between businesses and jobseekers. 
 Elio Di Rupo @ BeCode Charleroi
-
+![Elio Di Rupo at BeCode](https://github.com/becodeorg/newsletter/blob/master/source/images/Visite%20Elio%20Di%20Rupo.jpg "Elio Di Rupo at BeCode")
 Walloon MP Elio Di Rupo paid our BeCode campus a visit ! An amazing opportunity to discuss digital skills and business needs in Wallonia and for Mr Di Rupo to have a first experience with code!
 We love our partners
 A new type of training
