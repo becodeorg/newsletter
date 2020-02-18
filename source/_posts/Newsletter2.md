@@ -34,7 +34,7 @@ Elio Di Rupo @ BeCode Charleroi
 Walloon MP Elio Di Rupo paid our BeCode campus a visit ! An amazing opportunity to discuss digital skills and business needs in Wallonia and for Mr Di Rupo to have a first experience with code!
 We love our partners
 A new type of training
-
+![Telenet Academy for Digital & Data Talent](https://github.com/becodeorg/newsletter/blob/master/source/images/Telenet%20PC.jpg "Telenet Academy for Digital & Data Talent")
 With the announcement of the 'Academy for Digital & Data Talent', BeCode is very proud to be partnering with Telenet, KU Leuven, ULB and VUB to reinforce its mission of training the workforce of the future. 
 Exciting workshops with Accenture!
 ![Accenture Workshops](https://github.com/becodeorg/newsletter/blob/master/source/images/0%20(4).jpg "Accenture Workshops")
