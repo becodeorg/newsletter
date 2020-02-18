@@ -40,6 +40,8 @@ Exciting workshops with Accenture!
 
 In January, our Ghent learners were happy to have an amazing Accenture team for a very special workshop about the Mendix software platform! A great opportunity for our learners to deepen their knowledge of the programming ecosystem.
 They have learned at BeCode
+![Caroline, Brussels](https://github.com/becodeorg/newsletter/blob/master/source/images/5.png "Caroline, Brussels")
+![Marianna, Antwerp](https://github.com/becodeorg/newsletter/blob/master/source/images/5.png "Marianna, Antwerp")
 
 
 Meet the BeCoders : Chrysanthi
