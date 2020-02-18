@@ -6,7 +6,7 @@ Hi we're happy to send you the
 BeCode Newsletter #2
 Previously at BeCode...
 A new exciting year ahead!
-
+![The BeCode Team](https://github.com/becodeorg/newsletter/blob/master/source/images/IMG_20200131_170438.jpg "The BeCode Team")
 In January, our very magic BeCode team gathered to celebrate almost 3 years of providing a new type of education, helping people from all backgrounds, genders and horizons get closer to employment. It was also the opportunity for us all to look ahead and formulate our objectives for 2020 : 
  
 - Offering a training to more than 550 juniors by the end of the year - Brussels, Liège, Charleroi, Gent and Antwerp, be ready for more talents joining the workforce !
@@ -27,7 +27,7 @@ Two groups graduated in Brussels
 Brussels also got the opportunity to celebrate our learner's success, with two new groups graduating in February, and lots more BeCoders with a job!
 Congrats!
 New faces at BeCode
-
+![Heads of Campus](https://github.com/becodeorg/newsletter/blob/master/source/images/WhatsApp%20Image%202020-02-10%20at%2018.06.55.jpeg "Heads of Campus")
 The BeCode team is welcoming Kanchan, Laureline and Lizhen, our new Heads of Campus for Flanders, Wallonia and Brussels. With this new contact point, we wish to get closer to local communities and develop our networks throughout the country, helping bridge the gap between businesses and jobseekers. 
 Elio Di Rupo @ BeCode Charleroi
 
@@ -37,7 +37,7 @@ A new type of training
 
 With the announcement of the 'Academy for Digital & Data Talent', BeCode is very proud to be partnering with Telenet, KU Leuven, ULB and VUB to reinforce its mission of training the workforce of the future. 
 Exciting workshops with Accenture!
-
+![Accenture Workshops](https://github.com/becodeorg/newsletter/blob/master/source/images/0%20(4).jpg "Accenture Workshops")
 In January, our Ghent learners were happy to have an amazing Accenture team for a very special workshop about the Mendix software platform! A great opportunity for our learners to deepen their knowledge of the programming ecosystem.
 They have learned at BeCode
 ![Caroline, Brussels](https://github.com/becodeorg/newsletter/blob/master/source/images/5.png "Caroline, Brussels")
