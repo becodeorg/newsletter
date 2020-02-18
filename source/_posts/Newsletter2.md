@@ -43,7 +43,7 @@ They have learned at BeCode
 
 
 Meet the BeCoders : Chrysanthi
-
+![Chrysanthi & Tom](/images/IMG_20200103_143306.jpg)
 In each issue, we'll give you the chance to meet one of the many people who make BeCode what it is. 
 This time, we'd like you to meet Chrysanthi, who joined our magic team in september and who's one of our AI coaches. 
 
