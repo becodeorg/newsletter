@@ -5,8 +5,9 @@ title: BeCode Newsletter 2 - February 2020
 
 Hi we're happy to send you the
 BeCode Newsletter #2
-Previously at BeCode...
-# A new exciting year ahead!
+
+# Previously at BeCode...
+## A new exciting year ahead!
 ![The BeCode Team](https://github.com/becodeorg/newsletter/blob/master/source/images/IMG_20200131_170438.jpg "The BeCode Team")
 In January, our very magic BeCode team gathered to celebrate almost 3 years of providing a new type of education, helping people from all backgrounds, genders and horizons get closer to employment. It was also the opportunity for us all to look ahead and formulate our objectives for 2020 : 
  
@@ -53,6 +54,7 @@ In each issue, we'll give you the chance to meet one of the many people who make
 This time, we'd like you to meet Chrysanthi, who joined our magic team in september and who's one of our AI coaches. 
 
 Click here to read the full interview!
+
 #SHAREIFYOUCARE
 
 
