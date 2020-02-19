@@ -8,7 +8,7 @@ Hi we're happy to send you the
 
 ## Previously at BeCode...
 ### A new exciting year ahead!
-![The BeCode Team](https://github.com/becodeorg/newsletter/blob/master/source/images/IMG_20200131_170438.jpg "The BeCode Team")
+![The BeCode Team](https://github.com/becodeorg/newsletter/blob/master/source/images/IMG_20200131_170438.jpg "The BeCode Team" width="250" height="250")
 In January, our very magic BeCode team gathered to celebrate almost 3 years of providing a new type of education, helping people from all backgrounds, genders and horizons get closer to employment. It was also the opportunity for us all to look ahead and formulate our objectives for 2020 : 
  
 - Offering a training to more than 550 juniors by the end of the year - Brussels, Liège, Charleroi, Gent and Antwerp, be ready for more talents joining the workforce !
