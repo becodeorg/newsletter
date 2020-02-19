@@ -3,6 +3,7 @@
 ---
 title: BeCode Newsletter 2 - February 2020
 ---
+</p>
 
 Hi we're happy to send you the
 BeCode Newsletter #2
@@ -55,4 +56,4 @@ Click here to read the full interview!
 #SHAREIFYOUCARE
 
 
-</p>
+
