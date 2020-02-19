@@ -1,3 +1,5 @@
+<p align="center">
+
 ---
 title: BeCode Newsletter 2 - February 2020
 ---
@@ -51,8 +53,6 @@ This time, we'd like you to meet Chrysanthi, who joined our magic team in septem
 
 Click here to read the full interview!
 #SHAREIFYOUCARE
-Share	Share
-Tweet	Tweet
-Forward	Forward 
 
 
+</p>
