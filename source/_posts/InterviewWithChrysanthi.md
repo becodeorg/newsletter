@@ -1,4 +1,7 @@
-# Meet the BeCoders : Chrysanthi
+---
+title: Meet the BeCoders : Chrysanthi
+---
+![Chrysanthi and Tom](https://github.com/becodeorg/newsletter/blob/master/source/images/IMG_20200103_143306.jpg "Chrysanthi and Tom")
 
 **Tom Crohin, Communications & Marketing Officer :** Today, we are meeting one of BeCode’s latest recruits, our AI coach Chrysanthi! Hi Chrysanthi, how are you?
 
