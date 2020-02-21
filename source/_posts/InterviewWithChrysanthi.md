@@ -1,6 +1,7 @@
 ---
 title: Meet the BeCoders : Chrysanthi
 ---
+
  # Meet the BeCoders : Chrysanthi
  
 ![Chrysanthi and Tom](https://github.com/becodeorg/newsletter/blob/master/source/images/IMG_20200103_143306.jpg "Chrysanthi and Tom")
