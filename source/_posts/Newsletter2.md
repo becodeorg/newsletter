@@ -53,7 +53,7 @@ In January, our Ghent learners were happy to have an amazing Accenture team for 
 In each issue, we'll give you the chance to meet one of the many people who make BeCode what it is. 
 This time, we'd like you to meet Chrysanthi, who joined our magic team in september and who's one of our AI coaches. 
 
-[Click here](./InterviewWithChrysanthi.md) to read the full interview!
+[Click here](/2020/02/23/InterviewWithChrysanthi/) to read the full interview!
 
 #SHAREIFYOUCARE
 
