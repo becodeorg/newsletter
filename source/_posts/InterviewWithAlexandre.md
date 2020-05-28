@@ -21,6 +21,8 @@ We also have daily rituals, such as the morning call during which the coaches st
 
 Some campuses also have their rituals, like “changing tables” everyday : the learners work in different groups so they work on their soft skills and get to know their colleagues more. Some coaches share their music channels and the learners can find out about the different music styles our coaches like. 
 
+ ![Alexandre Head of Pedagogy](/images/alexandregraduation.JPG "Alexandre Head of Pedagogy")
+ 
 **Tom :** As we speak, the trainings are taking place in a full remote way, but the idea in the coming weeks and months is to implement a blended model. Can you tell us about this new way of learning?
 
 **Alexandre :** The blended model consists in learning both from home and in our campuses, which is very close to the way companies are working. With the confinement, many businesses discovered teleworking, which has now prove its worth. Businesses are probably going to shift to a much more blended world and, in some cases, like in the IT sector, work remotely only. 
@@ -34,6 +36,8 @@ We have equipped each campus with facemasks, soap and hydroalcoholic gel and soc
 **Alexandre :** First of all, we have realized that this is all possible. That is the first thing that we’ll take away from this situation. Remote learning, which we always have liked at BeCode, will probably be part of the training on the long run. The flexibility we all need is also a muscle that will remain. At BeCode, it’s not “Do or die”, it’s “Bend or die”. 
 
 A coach told me the other day: “As a coach, we receive a lot of energy from the group each time a learner figures out how to solve a problem and is happy about it. It’s a dopamine boost for the group that we unfortunately cannot have with a 100% remote learning model.” That’s why I think we’ll implement it on the long run, but will never become an online training.
+
+![Alexandre Head of Pedagogy](/images/alexandregala.jpg "Alexandre Head of Pedagogy")
 
 **Tom :** Even before you joined the BeCode team, you’ve always been very fond of self-learning. Do you have tips for those of us who struggle with working/learning new things by themselves in quarantine? 
 
