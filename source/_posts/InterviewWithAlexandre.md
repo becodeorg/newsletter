@@ -6,7 +6,6 @@ title: 'Meet the BeCoders : Alexandre'
  
  ![Alexandre Head of Pedagogy](/images/AlexandreHeadofPedagogy.png "Alexandre Head of Pedagogy")
  
- ![Alexandre](AlexandreHeadofPedagogy.png "Alexandre")
 
 **Tom Crohin, Communications & Marketing Officer :** Today, we are meeting one of BeCode’s very first recruits, our very own Head of Pedagogy, Alexandre! Hi Alex', how are you?
 
