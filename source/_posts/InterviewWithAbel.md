@@ -4,6 +4,8 @@ title: 'Meet the BeCoders : Abel'
 
  # Meet the BeCoders : Abel
  
+ ![Abel Magolu, Communications & Marketing Officer](/images/abelmagolu1.png "Abel Magolu, Communications & Marketing Officer")
+ 
 **Tom Crohin :** Hi Abel, could you tell us a bit about yourself?
 
 **Abel Magolu:** Sure! I’ll start with my studies. I’ve always been very curious about economics and marketing. That’s why I followed a Bachelor’s course in marketing at the EPHEC. And I had a great time there and met wonderful people, including teachers who made me want to do this job and work in the digital sector. Afterwards, I felt like going deeper into this area and I started a Master’s degree in Information & Communication at the UCL. During my last year there, I’ve focused on communication for social non-profits, as I was already very much involved in those. 
@@ -31,6 +33,8 @@ And when I was told that my mission would also consist in organizing and hosting
 I already knew I liked the digital world, but I didn’t know I would become so interested in the IT sector. I really like the coding skills that I’ve learned in workshops with learners since I’ve been part of the team, and I’ve also done some more by myself at home. 
 
 As we have a very cool partnership with Coderdojo who’s made available robots for us to play with, I’ve had the opportunity to learn how to program them, and that is something I’ve very much enjoyed. 
+
+![Abel Magolu, Communications & Marketing Officer](/images/abelmagolu2.png "Abel Magolu, Communications & Marketing Officer")
 
 **Tom :** Your biggest responsibility at BeCode is to promote the training in order for Brussels learners to register for our trainings. Covid 19 has strongly impacted the way our campaigns work. How are you coping with that?
 
@@ -60,6 +64,8 @@ Another project that we are currently launching is “Debrief”. The idea is to
 
 **Tom :** Before we wrap this up, I’ve still got two questions for you. What’s your best achievement since you’ve joined the BeCode team?
 
+![Abel Magolu, Communications & Marketing Officer](/images/abelmagolu3.png "Abel Magolu, Communications & Marketing Officer")
+
 **Abel :** Tough one! I’ve got two big ones. The first one is the Coderdojo project on which I worked in 2019. I organized a series of workshops with the Robert Catteau high school in Brussels, and I was truly amazed to see the web pages the students were able to make at the end of the workshops. They were very excited about these activities and it made me proud. 
 
 The second thing that makes me super proud is following a group of learners from the info sessions and registration to their internship, supporting them along the way in every step of their career switch. That’s the best proof to me that what we promise is real. That ain’t no fake, misleading advertising. 
@@ -71,7 +77,3 @@ The second thing that makes me super proud is following a group of learners from
 The second memory that comes to my mind is the last day of our Brussels classes (Johnson & Lovelace 4). We organized tournaments and games, and it was plain amazing. 
 
 **Tom :** Thank you Abel!
-
-
-
-
