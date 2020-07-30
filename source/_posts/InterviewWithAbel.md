@@ -10,7 +10,7 @@ title: 'Meet the BeCoders : Abel'
 
 **Abel Magolu:** Sure! I’ll start with my studies. I’ve always been very curious about economics and marketing. That’s why I followed a Bachelor’s course in marketing at the EPHEC. And I had a great time there and met wonderful people, including teachers who made me want to do this job and work in the digital sector. Afterwards, I felt like going deeper into this area and I started a Master’s degree in Information & Communication at the UCL. During my last year there, I’ve focused on communication for social non-profits, as I was already very much involved in those. 
 
-Afterwards I’ve become a teacher in a high school. This is the other side of my profile : I love teaching and transmitting knowledge. So I became a marketing teacher. Right after this, I became communications officer for a non-profit that aims at helping friends and families of people with severe illnesses. That allowed me to take a plunge into the digital marketing world. 
+Afterwards, I became a teacher in a high school. This is the other side of my profile : I love teaching and transmitting knowledge. So I became a marketing teacher. Right after this, I became communications officer for a non-profit that aims at helping friends and families of people with severe illnesses. That allowed me to take a plunge into the digital marketing world. 
 
 And then someone told me about BeCode, and I was curious about it. 
 
@@ -20,13 +20,13 @@ And then someone told me about BeCode, and I was curious about it.
 
 Firstly, I love the project. And I think that is something that we all have in common in the BeCode team, whatever our backgrounds or personalities, we love the project in itself : the fact that we help people who are remote from employment get closer to a job. 
 
-In this industry, there is a lot of competition, and there are countless institutions that offer trainings that have no future because they do not focus on the skills that will help people. Our training really has a positive impact, and that’s been proven. 
+In this industry, there is a lot of competition, and there are countless institutions that offer trainings that have no future because they do not focus on the skills that will help people. Our trainings really have a positive impact, and that’s been proven. 
 
 I’m also very interested in the IT world. That’s another aspect that I liked about the company. 
 
-And when I was told that my mission would also consist in organizing and hosting workshops, I knew it was a perfect match!
+And when I was told that my mission would also consist of organizing and hosting workshops, I knew it was a perfect match!
 
-**Tom :** You’ve already worked in other beautiful organizations before this, but what have you learned about yourself since you’ve been working at BeCode?
+**Tom :** You’ve already worked in other beautiful organizations before, but what have you learned about yourself since you’ve been working at BeCode?
 
 **Abel :** I’ve learned that I’m even more curious than I thought. 
 
