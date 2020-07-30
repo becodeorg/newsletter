@@ -4,7 +4,7 @@ title: 'Meet the BeCoders : Abel'
 
  # Meet the BeCoders : Abel
  
- ![Abel Magolu, Communications & Marketing Officer](/images/abelmagolu1.png "Abel Magolu, Communications & Marketing Officer")
+ ![Abel Magolu Communications & Marketing Officer](/images/abelmagolu1.png "Abel Magolu Communications & Marketing Officer")
  
 **Tom Crohin :** Hi Abel, could you tell us a bit about yourself?
 
@@ -34,7 +34,7 @@ I already knew I liked the digital world, but I didn’t know I would become so 
 
 As we have a very cool partnership with Coderdojo who’s made available robots for us to play with, I’ve had the opportunity to learn how to program them, and that is something I’ve very much enjoyed. 
 
-![Abel Magolu, Communications & Marketing Officer](/images/abelmagolu2.png "Abel Magolu, Communications & Marketing Officer")
+![Abel Magolu Communications & Marketing Officer](/images/abelmagolu2.png "Abel Magolu Communications & Marketing Officer")
 
 **Tom :** Your biggest responsibility at BeCode is to promote the training in order for Brussels learners to register for our trainings. Covid 19 has strongly impacted the way our campaigns work. How are you coping with that?
 
@@ -64,7 +64,7 @@ Another project that we are currently launching is “Debrief”. The idea is to
 
 **Tom :** Before we wrap this up, I’ve still got two questions for you. What’s your best achievement since you’ve joined the BeCode team?
 
-![Abel Magolu, Communications & Marketing Officer](/images/abelmagolu3.png "Abel Magolu, Communications & Marketing Officer")
+![Abel Magolu Communications & Marketing Officer](/images/abelmagolu3.png "Abel Magolu Communications & Marketing Officer")
 
 **Abel :** Tough one! I’ve got two big ones. The first one is the Coderdojo project on which I worked in 2019. I organized a series of workshops with the Robert Catteau high school in Brussels, and I was truly amazed to see the web pages the students were able to make at the end of the workshops. They were very excited about these activities and it made me proud. 
 
